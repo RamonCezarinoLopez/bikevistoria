@@ -1,2 +1,2 @@
 # bikevistoria
-bike
+para rodar o projeto escreva mvn jetty:run
